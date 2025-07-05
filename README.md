@@ -1,2 +1,1 @@
-# tsc
-The Sacred Computer
+# The Sacred Computer
